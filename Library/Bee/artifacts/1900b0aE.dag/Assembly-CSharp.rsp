@@ -344,7 +344,6 @@
 "Assets/Scripts/Dialog Scripts/Dialogue.cs"
 "Assets/Scripts/Dialog Scripts/DialogueControl.cs"
 "Assets/Scripts/GameController.cs"
-"Assets/Scripts/Geral/Carregamento.cs"
 "Assets/Scripts/Geral/Config.cs"
 "Assets/Scripts/Geral/Menu.cs"
 "Assets/Scripts/Geral/PauseTela.cs"
